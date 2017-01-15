@@ -1,6 +1,6 @@
 
 
-<nav class="navbar navbar-default" role = "navigation">
+<nav class="navbar navbar-default navbar-fixed-top" role = "navigation">
 		<div class="navbar-header">
 			<div class="container-fluid">
 				<div class="col-lg-4 col-md-4 col-sm-4  col-xs-4">
@@ -19,7 +19,7 @@
 					<div class = "collapse navbar-collapse" id = "example-navbar-collapse">
 						<ul class = "nav navbar-nav">
 							<li class="active"><a href = "#">Home</a></li>
-							<li><a href = "#">About</a></li>
+							<li><a href = "#About">About</a></li>
 							<li><a href = "#">Top 5</a></li>	
 						</ul>
 					</div>		
