@@ -20,7 +20,7 @@
 						<ul class = "nav navbar-nav">
 							<li class="active"><a href = "#">Home</a></li>
 							<li><a href = "#About">About</a></li>
-							<li><a href = "#">Top 5</a></li>	
+							<li><a href = "#Top">Top 5</a></li>	
 						</ul>
 					</div>		
 				</div>

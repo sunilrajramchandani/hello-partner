@@ -1,9 +1,7 @@
 body{
 	background-color: #C8C8C8 ;
 }
-.container{
-	padding-top:3%;
-}
+
 img{
   display: block;
   padding-top:5%;
@@ -27,3 +25,7 @@ hr{
 .glyphicon-chevron-down{
 	margin-left: 50%;
 }
+
+
+
+

@@ -35,7 +35,7 @@
 	<div class="container" id = "About">
 		<p class="h3"><em>About Archie</em></p>
 		<blockquote>
-		<p>I am Ivann Archie Arintok, 
+		<p class = "well">I am Ivann Archie Arintok, 
 		a student of College of Saint Benilde currently taking up BS-Information Systems. 
 		I am 20 years old. I grew up in the province of Batangas and just moved to Manila for education and work purposes. 
 		There are times when I miss the province because of its simplicity and closeness to nature. 
@@ -55,9 +55,9 @@
 		<footer>Ivan Archie Arintok</footer>
 		</blockquote>
 	</div>
-	
+	<hr/>
 	<div class = "container"  id = "Top">
-		<p class="h2">Top 5</p>
+		<p class="h2">Top 5 Food</p>
 			<div id="myCarousel" class="carousel slide" data-ride="carousel">
 		  <!-- Indicators -->
 		  <ol class="carousel-indicators">
@@ -65,24 +65,29 @@
 			<li data-target="#myCarousel" data-slide-to="1"></li>
 			<li data-target="#myCarousel" data-slide-to="2"></li>
 			<li data-target="#myCarousel" data-slide-to="3"></li>
+			<li data-target="#myCarousel" data-slide-to="4"></li>
 		  </ol>
 
 		  <!-- Wrapper for slides -->
 		  <div class="carousel-inner" role="listbox">
 			<div class="item active">
-			  <img src="taco.png" alt="Chania">
+			  <img src="taco.gif" alt="taco">
 			</div>
 
 			<div class="item">
-			  <img src="taco.png" alt="Chania">
+			  <img src="salad.gif" alt="salad">
 			</div>
 
 			<div class="item">
-			  <img src="taco.png" alt="Flower">
+			  <img src="Chicken.gif" alt="chicken">
 			</div>
 
 			<div class="item">
-			  <img src="taco.png" alt="Flower">
+			  <img src="donut.gif" alt="donut">
+			</div>
+			
+			<div class="item">
+			  <img src="pizza.gif" alt="pizza">
 			</div>
 		  </div>
 		 </div>

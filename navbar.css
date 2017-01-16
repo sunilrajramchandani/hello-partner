@@ -5,9 +5,7 @@
 	height:100px;
 	padding-top:1%;
 }
-.navbar-default{
-	background-color:#C8C8C8 ;
-}
+
 .navbar-toggle{
         display:block!important;
     }
@@ -29,4 +27,7 @@
 	}
 .glyphicon-envelope{
 	font-size: 3em;
+}
+.navbar{
+	margin-bottom:10%;
 }
