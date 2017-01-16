@@ -1,8 +1,7 @@
-
 .navbar-header {
 	width: 100%;
 	background-color:white;
-	height:100px;
+	height:90px;
 	padding-top:1%;
 }
 
@@ -24,6 +23,7 @@
     }
 .h3{
 		font-family: Navis,Times New Roman,red serif, Times, serif;
+		color:black;
 	}
 .glyphicon-envelope{
 	font-size: 3em;
@@ -31,3 +31,4 @@
 .navbar{
 	margin-bottom:10%;
 }
+
