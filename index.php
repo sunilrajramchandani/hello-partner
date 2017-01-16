@@ -54,6 +54,39 @@
 		I prefer playing basketball the most and despite the hate directed towards him, Lebron James is my favorite player.</p>
 		<footer>Ivan Archie Arintok</footer>
 		</blockquote>
+	</div>
+	
+	<div class = "container"  id = "Top">
+		<p class="h2">Top 5</p>
+			<div id="myCarousel" class="carousel slide" data-ride="carousel">
+		  <!-- Indicators -->
+		  <ol class="carousel-indicators">
+			<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+			<li data-target="#myCarousel" data-slide-to="1"></li>
+			<li data-target="#myCarousel" data-slide-to="2"></li>
+			<li data-target="#myCarousel" data-slide-to="3"></li>
+		  </ol>
+
+		  <!-- Wrapper for slides -->
+		  <div class="carousel-inner" role="listbox">
+			<div class="item active">
+			  <img src="taco.png" alt="Chania">
+			</div>
+
+			<div class="item">
+			  <img src="taco.png" alt="Chania">
+			</div>
+
+			<div class="item">
+			  <img src="taco.png" alt="Flower">
+			</div>
+
+			<div class="item">
+			  <img src="taco.png" alt="Flower">
+			</div>
+		  </div>
+		 </div>
+		</div>
 </body>
 </html>
 
